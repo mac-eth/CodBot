@@ -1,19 +1,21 @@
 {
-    "name": "codbot",
-    "version": "1.0.0",
-    "description": "A bot for cod",
-    "main": "bot.js",
-    "scripts": {
-        "start": "node bot.js",
-        "dev": "nodemon bot.js"
-    },
-    "author": "Mac",
-    "dependencies": {
-        "@discordjs/builders": "^1.3.0",
-        "@discordjs/rest": "^1.3.0",
-        "chalk": "^4.1.2",
-        "discord-api-types": "^0.33.5",
-        "discord.js": "^13.8.0",
-        "dotenv": "^16.0.1"
-    }
+  "name": "codbot",
+  "version": "1.0.0",
+  "description": "A bot for cod",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "author": "Mac",
+  "dependencies": {
+    "@discordjs/builders": "^1.3.0",
+    "@discordjs/rest": "^1.3.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.33.5",
+    "discord.js": "^13.8.0",
+    "dotenv": "^16.0.1"
+  },
+  "keywords": [],
+  "license": "ISC"
 }
